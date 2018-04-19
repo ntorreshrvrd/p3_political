@@ -1,0 +1,16 @@
+{
+	"id": "dtn21",
+	"question": "Are you willing to let go of some control over your project to a private project developer?",
+	"description": "<p>Your governing board, administration and operational staff may feel uncomfortable with ceding significant project management, control and oversight to a private project developer and the potential political fallout from a potential failed public private partnership seen as resulting from your ceding such control.</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn211"
+		},
+		{
+			"text": "No",
+			"target": "dtn212"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": "dtn221",
+	"question": "Do you have the political will to deal with a failed project?",
+	"description": "<p>You can rely on your project exceeding your initial expectations regardless of the procurement method (which is why projects always build in significant contingency funds, whether inside the project contract or outside in the appropriations account).  Even when you include failsafe risk shifting contractual terms with strong performance/completion surety provisions, you, as the governing body charged with protection of your constituents, will always ultimately hold the risk for project performance, because if the project fails to meet expectations, whether cost, timing or performance, the constituents will turn to you to fix it. If not, shifting as much of this risk as possible to a private project developer may be a good strategy.</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "anode2"
+		},
+		{
+			"text": "No",
+			"target": "anode2"
+		}
+	]
+}

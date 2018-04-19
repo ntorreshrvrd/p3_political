@@ -1,0 +1,17 @@
+{
+	"id": "start",
+	"question": "Does the project span multiple political jurisdictions and is it likely to affect multiple political stakeholders?",
+	"description": "<p>If your project crosses over political jurisdictional boundaries, you may perceive it better to shift the burden of coordinating cross-boundary project issues to a private project developer.  Likewise, if the project impacts multiple political stakeholders (organized labor, environmental community, permitting agencies, or entrenched consultants and advisers), you may want to shift the burden to the private project developer to avoid direct political impacts.</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn1"
+		},
+		
+		{
+			"text": "No",
+			"target": "dtn2"
+		}
+	]
+}
