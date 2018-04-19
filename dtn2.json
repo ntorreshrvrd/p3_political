@@ -1,0 +1,16 @@
+{
+	"id": "dtn2",
+	"question": "Do you anticipate crippling constituent dissatisfaction or pressure?",
+	"description": "<p>Your constituents will no doubt be displeased if you raise their taxes and user rates or create new fees, tolls and charges for services they use to receive for free.  Likewise, your constituents may be particularly sensitive to project completion delays, failure of project to be completed as expected, or failure of technology to perform as expected.  If so you may consider deflecting such potential constituent displeasure to a private project developer.</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn21"
+		},
+		{
+			"text": "No",
+			"target": "dtn22"
+		}
+	]
+}
